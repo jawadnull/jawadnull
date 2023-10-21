@@ -2,8 +2,15 @@
 <h1 align="center">Hi 👋, I'm jawad</h1>
 <h3 align="center">A passionate web developer</h3>
 <img align="right" alt="coding" width="400" hieght="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+<br>
+
+- - 🔭 I’m currently working on **clones**
 
 - 🌱 I’m currently learning **backend frame work (express.js)**
+
+- 👨‍💻 All of my projects are available at [my githup](my githup)
+
+- 📫 How to reach me **jawadkademalrzaq@gmail.com**
 <br>
 
 
