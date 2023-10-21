@@ -1,8 +1,8 @@
 [![MasterHead](https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=740&t=st=1697866233~exp=1697866833~hmac=7d672407ac499fdac38031d0f1f660435df47e6b9b47f9b47bd9b56c8746fb2e)]
 <h1 align="center">Hi 👋, I'm jawad</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
-
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadnull&label=Profile%20views&color=0e75b6&style=flat" alt="jawadnull" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawadnull" alt="jawadnull" /></a> </p>
