@@ -1,4 +1,4 @@
-![MasterHead](https://imgtr.ee/images/2023/10/21/02b6acb4dbddf36cb2398478fc54d4f5.png)
+
 <h1 align="center">Hi 👋, I'm jawad</h1>
 <h3 align="center">A passionate web developer</h3>
 
